@@ -6,6 +6,7 @@
 - [Angular 1 (by John Papa)](https://github.com/johnpapa/angular-styleguide/blob/master/a1/README.md)
 - [jQuery](jquery.md)
 - [Unit testing](unit-testing.md)
+- [Redux](redux.md)
 
 ## Quotes
 Strings should be quoted with a single quote.
